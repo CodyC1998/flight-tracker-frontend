@@ -52,9 +52,9 @@ This fork focuses on **Dockerization, AWS deployment, and CI/CD integration** fo
 
 ## 🚀 Tech Stack
 
-* **Frontend**: React, Axios, CSS/Tailwind (Cody)
-* **Backend**: Java 17, Spring Boot, MySQL, JPA/Hibernate (Colin)
-* **Deployment**: Docker, AWS EC2, AWS ECR, AWS RDS, IAM, GitHub Actions (Jaowad)
+* **Frontend**: React, CSS 
+* **Backend**: Java 17, Spring Boot, MySQL
+* **Deployment**: Docker, AWS EC2, AWS ECR, AWS RDS, IAM, GitHub Actions
 
 ---
 
