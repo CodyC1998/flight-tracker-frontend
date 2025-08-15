@@ -1,4 +1,4 @@
-# ✈️ Flight Tracker(https://djyim49uad8qf.cloudfront.net/) – Frontend (Deployment Fork)
+# [✈️ Flight Tracker](https://djyim49uad8qf.cloudfront.net/) – Frontend (Deployment Fork)
 
 This repository is the **deployment-ready fork** of the frontend for our group project.
 
